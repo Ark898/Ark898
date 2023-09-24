@@ -41,7 +41,7 @@ I am a passionate and dedicated software developer with a strong foundation in c
 - 
 
 ## Contact Information
-- GitHub: N/A
+- GitHub: https://github.com/Ark898/Ark898/edit/main/README.md
 - LinkedIn: N/A
 - Email: aryankumar89824@gmail.com
 
