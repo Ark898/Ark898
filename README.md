@@ -5,7 +5,7 @@ I am a passionate and dedicated software developer with a strong foundation in c
 
 ## Skills
 - **Programming Languages:** C/C++,PYTHON,
-- **Web Development:**HTML,CSS,JAVASCRIPT,REACT,GSAP,BOOTSTRAP
+- **Web Development:**HTML,CSS,JAVASCRIPT,REACT,GSAP,BOOTSTRAP,Etc
 - **Database Management:** MONGOOSE,MONGO DB
 - **Version Control:** Proficient in Git and GitHub
 - **Software Engineering:** Agile methodologies, software architecture, design patterns
@@ -14,10 +14,10 @@ I am a passionate and dedicated software developer with a strong foundation in c
 - **Collaboration:** Effective team player with excellent communication skills
 
 ## Projects
-### [Project Name 1]
-- Description: N/A
-- Technologies Used: N/A
-- GitHub Repository: N/A
+### [Portfolio Website]
+- Description: Portfolio Website
+- Technologies Used: Upcoming
+- GitHub Repository: Upcoming
 
 ### [Project Name 2]
 - Description: N/A
@@ -38,7 +38,7 @@ I am a passionate and dedicated software developer with a strong foundation in c
 
 ## Certifications
 - CODERUSH CHALLENGE 2023 - ALGOUNIVERSITY - 22/04/23.
-- 
+- Greatlearning Certificate-Git Tutorial-09/23
 
 ## Contact Information
 - GitHub: https://github.com/Ark898/Ark898/edit/main/README.md
