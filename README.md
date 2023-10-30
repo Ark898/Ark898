@@ -5,7 +5,7 @@ I am a passionate and dedicated software developer with a strong foundation in c
 
 ## Skills
 - **Programming Languages:** C/C++,PYTHON,
-- **Web Development:**HTML,CSS,JAVASCRIPT,REACT,GSAP,BOOTSTRAP,Etc
+- **Web Development:**HTML,CSS,JAVASCRIPT,REACT,GSAP,BOOTSTRAP,Tailwind,sass,Etc.
 - **Database Management:** MONGOOSE,MONGO DB
 - **Version Control:** Proficient in Git and GitHub
 - **Software Engineering:** Agile methodologies, software architecture, design patterns
@@ -15,7 +15,7 @@ I am a passionate and dedicated software developer with a strong foundation in c
 
 ## Projects
 ### [Portfolio Website]
-- Description: Portfolio Website
+- Description: Portfolio Website-09/12/23
 - Technologies Used: Upcoming
 - GitHub Repository: Upcoming
 
