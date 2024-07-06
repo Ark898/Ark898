@@ -30,18 +30,6 @@ I am a passionate and dedicated software developer with a strong foundation in c
 - Technologies Used:N/A
 - GitHub Repository: N/A
 
-## Work Experience
-### [Current/Previous Job Title] - [Company Name] - [Location] - [Date Range]
-- Description: N/A
-- Technologies Used:N/A
-
-### [Job Title] - [Company Name] - [Location] - [Date Range]
-- Description: N/A
-- Technologies Used:N/A
-## Education
-- B.TECH in MATHEMATICS AND COMPUTING -IIT ROPAR - 2026
-- Relevant Coursework:DATA STRUCTURES[CS201],REAL ANALYSIS[MA411],INTRODUCTION TO COMPUTING[GE103],DIFFERENTIAL EQUATIONS[MA201],ETC.
-
 ## Certifications
 - CODERUSH CHALLENGE 2023 - ALGOUNIVERSITY - 22/04/23.
 - Greatlearning Certificate-Git Tutorial-09/23
