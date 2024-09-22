@@ -14,25 +14,12 @@ I am a passionate and dedicated software developer with a strong foundation in c
 - **Web Development:**HTML,CSS,JAVASCRIPT,REACT,GSAP,BOOTSTRAP,Tailwind,sass,Etc.
 - **Database Management:** MONGOOSE,MONGO DB
 - **Version Control:** Proficient in Git and GitHub
-- **Software Engineering:** Agile methodologies, software architecture, design patterns
-- **DevOps:** N/A
+- **Software Engineering:** Agile methodologies, software architecture, design pattern
 - **Problem Solving:** Strong analytical and problem-solving skills
 - **Collaboration:** Effective team player with excellent communication skills
 
-## Projects
 ### [Portfolio Website]
 - Description: Portfolio Website-aryans-stunning-site-0ffb47.webflow.io
-- Technologies Used: Upcoming
-- GitHub Repository: Upcoming
-
-### [Project Name 2]
-- Description: N/A
-- Technologies Used:N/A
-- GitHub Repository: N/A
-
-## Certifications
-- CODERUSH CHALLENGE 2023 - ALGOUNIVERSITY - 22/04/23.
-- Greatlearning Certificate-Git Tutorial-09/23
 
 ## Contact Information
 - GitHub: https://github.com/Ark898/Ark898/edit/main/README.md
