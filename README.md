@@ -1,4 +1,4 @@
-# ARYAN KUMAR
+# ARK
 
 
 [![](https://raw.githubusercontent.com/Ark898/Template_thickduck/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -24,6 +24,6 @@ I am a passionate and dedicated software developer with a strong foundation in c
 ## Contact Information
 - GitHub: https://github.com/Ark898/Ark898/edit/main/README.md
 - LinkedIn: N/A
-- Email: aryankumar89824@gmail.com
+- Email: N/A
 
 Feel free to explore my repositories, contribute to ongoing projects, or get in touch with me for collaboration opportunities. I am passionate about leveraging technology to make a positive impact and am always eager to learn and grow in this ever-evolving field.
