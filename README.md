@@ -1,7 +1,19 @@
-# ARK
+### Hello world, I'm Ark  👋 
+
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
+
+![profile count](https://komarev.com/ghpvc/?username=Ark898&color=red)&nbsp;
+[![GitHub Ark898](https://img.shields.io/github/followers/Ark898?label=follow&style=social)](https://github.com/Ark898)&nbsp;
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ark898&color=blue)<br>
 [![](https://raw.githubusercontent.com/Ark898/Template_thickduck/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ark898/Template_thickduck/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ark898/Template_thickduck/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ark898/Template_thickduck/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ark898/Template_thickduck/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
